@@ -5,7 +5,7 @@
       <h1 class="title">
         nuxt-tailwind
       </h1>
-      <h2 class="subtitle">
+      <h2 class="text-green-500">
         My great Nuxt.js project
       </h2>
       <div class="links">
